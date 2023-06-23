@@ -3,11 +3,10 @@ https://www.overleaf.com/4836937125znmygmczcsvx
 
 
 Link to unlisted YouTube video:
-https://youtube.com/.....
-
+[[UNDER PROGRESS]]
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+[[UNDER PROGRESS]]
 
 Project title:
 BSenti: A Bangla Open Source Sentiment classification Python Library
