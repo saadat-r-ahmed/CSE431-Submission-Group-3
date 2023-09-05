@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/read/gkxkwwsmdbpx
 
 Unlisted YouTube video:
-https://youtu.be/I9xauo8x_kk
+https://youtu.be/8oCs03ASptA
 
 Paper title:
 BSenti: Bangla Sentiment Classification Python Library
